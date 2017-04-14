@@ -20,7 +20,7 @@ Compile Client :
 Command Line : gcc -Wall -o ssl-client ssl-client.c -L/usr/lib -lssl -lcrypto
 
 Run Client :
-Command Line : ./ssl-client <IP> <portnum> ./ssl-client 192.168.43.54 6000
+Command Line : ./ssl-client <IP> <portnum> || ./ssl-client 192.168.43.54 6000
 
 
 
